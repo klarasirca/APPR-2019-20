@@ -5,10 +5,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza otroškega dela po svetu
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V svojem projektu želim analizirati.
 
 ## Program
 
