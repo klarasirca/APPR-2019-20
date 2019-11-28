@@ -7,7 +7,10 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Analiza zdravstvenega varstva v državah EU
 
-V sklopu projekta bom analizirala zdravstveno varstvo v državah EU. Analizriala bom javne izdatke za zdravstvo v državah na prebivalca ter kot delež BDP, prav tako privatne izdatke za zdravstvo ter celotno strukturo zdravstvenega sistema, predvsem pa koliko zaposlenih je v državi v zdravstvu na prebivalca. Te podatke bom nato primerjala s splošnim zdravjem prebivalstva v državah ter poskušala priti do zaključkov v kakšnih zdravstvenih sistemih so ljudje bolj zdravi, ter kateri zdravstveni sistemi so bolj učinkoviti.
+V sklopu projekta bom analizirala zdravstveno varstvo v državah EU. Analizriala bom javne izdatke za zdravstvo v državah na prebivalca ter kot delež BDP, prav tako privatne izdatke za zdravstvo ter celotno strukturo zdravstvenega sistema:
+-koliko je zaposlenih v zdravstvu na prebivalca v državi
+-povprečno število dni preživetih v bolnišnici 
+Te podatke bom nato primerjala s splošnim zdravjem prebivalstva v državah ter poskušala priti do zaključkov v kakšnih zdravstvenih sistemih so ljudje bolj zdravi, ter kateri zdravstveni sistemi so bolj učinkoviti.
 
 Vire za svoj projekt bom pridobila na EUROSTATU,spletni strani World Health Organisation ter OECD.
 WHO: https://gateway.euro.who.int/en/datasets/european-health-for-all-database/#health-care-utilization-and-expenditure
@@ -24,7 +27,7 @@ https://gateway.euro.who.int/en/indicators/hfa_571-6722-public-expenditure-on-he
 2. Tabela: izdatki posameznikov za zdravstene storitve
 https://gateway.euro.who.int/en/indicators/hfa_585-6861-private-households-out-of-pocket-payments-on-health-as-of-private-sector-health-expenditure/
 
-3. Tabela: delež izdatkov javnega zdravja v primerjavi z izdatki zasebnega
+3. Tabela: delež izdatkov javnega zdravstva v primerjavi z izdatki zasebnega
 https://gateway.euro.who.int/en/indicators/hfa_572-6730-public-sector-health-expenditure-as-of-total-health-expenditure-who-estimates/
 
 4. Tabela: število zaposlenih v zdravstvu, absolutno ter na prebivalca
@@ -36,14 +39,14 @@ https://gateway.euro.who.int/en/indicators/hfa_414-2720-people-receiving-sociald
 6. Tabela: povprečno število dni v bolnišnici
 https://data.oecd.org/healthcare/length-of-hospital-stay.htm
 
-7. Tabela: število pričakovanih zdravih let življenja v EU v primerjavi z pričakovano življenjsko dobo (po državah ter spolu)
+7. Tabela: število pričakovanih zdravih let življenja v EU v primerjavi s pričakovano življenjsko dobo (po državah ter spolu)
 https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hlth_hlye&lang=en
 
 8. Tabela: zdravstveno stanje posamzenikov po njihovem mnenju (po državah ter dohodku)
 https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hlth_silc_10&lang=en
 
 
-Cilj analize je ugotoviti ali višina izdatkov države za javno zdravje vpliva na splošno zdravje populacije ter efektivnost zdravstvenega sistema držav.
+Cilj analize je ugotoviti, kako struktura zdravstvenega sistema ter višina izdatkov države za javno zdravje vpliva na splošno zdravje populacije.
 
 
 ## Program
