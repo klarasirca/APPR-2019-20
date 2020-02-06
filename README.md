@@ -5,10 +5,49 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza zdravstvenega varstva v državah EU
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V sklopu projekta bom analizirala zdravstveno varstvo v državah EU. Analizriala bom javne izdatke za zdravstvo v državah na prebivalca ter kot delež BDP, prav tako privatne izdatke za zdravstvo ter celotno strukturo zdravstvenega sistema:
+-koliko je zaposlenih v zdravstvu na prebivalca v državi
+-povprečno število dni preživetih v bolnišnici 
+Te podatke bom nato primerjala s splošnim zdravjem prebivalstva v državah ter poskušala priti do zaključkov v kakšnih zdravstvenih sistemih so ljudje bolj zdravi, ter kateri zdravstveni sistemi so bolj učinkoviti.
+
+Vire za svoj projekt bom pridobila na EUROSTATU,spletni strani World Health Organisation ter OECD.
+WHO: https://gateway.euro.who.int/en/datasets/european-health-for-all-database/#health-care-utilization-and-expenditure
+EUROSTAT: https://ec.europa.eu/eurostat/web/health/data/database
+OECD: https://www.oecd-ilibrary.org
+
+
+V sklopu analize bom primerjala slednje podatke držav EU:
+1. Tabela: izdatki držav za javno zdravje, primerjava per capita ter delež BDP
+https://gateway.euro.who.int/en/indicators/hfa_567-6712-public-sector-expenditure-on-health-as-of-gdp-who-estimates/
+
+https://gateway.euro.who.int/en/indicators/hfa_571-6722-public-expenditure-on-health-ppp-per-capita-who-estimates/
+
+2. Tabela: izdatki posameznikov za zdravstene storitve
+https://gateway.euro.who.int/en/indicators/hfa_585-6861-private-households-out-of-pocket-payments-on-health-as-of-private-sector-health-expenditure/
+
+3. Tabela: delež izdatkov javnega zdravstva v primerjavi z izdatki zasebnega
+https://gateway.euro.who.int/en/indicators/hfa_572-6730-public-sector-health-expenditure-as-of-total-health-expenditure-who-estimates/
+
+4. Tabela: število zaposlenih v zdravstvu, absolutno ter na prebivalca
+https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hlth_rs_prshp1&lang=en
+
+5. Tabela: število ljudi, ki prejema socialne prispevke za invalidnost na 100 000 ljudi
+https://gateway.euro.who.int/en/indicators/hfa_414-2720-people-receiving-socialdisability-benefits-per-100-000/
+
+6. Tabela: povprečno število dni v bolnišnici
+https://data.oecd.org/healthcare/length-of-hospital-stay.htm
+
+7. Tabela: število pričakovanih zdravih let življenja v EU v primerjavi s pričakovano življenjsko dobo (po državah ter spolu)
+https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hlth_hlye&lang=en
+
+8. Tabela: zdravstveno stanje posamzenikov po njihovem mnenju (po državah ter dohodku)
+https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hlth_silc_10&lang=en
+
+
+Cilj analize je ugotoviti, kako struktura zdravstvenega sistema ter višina izdatkov države za javno zdravje vpliva na splošno zdravje populacije.
+
 
 ## Program
 
